@@ -1,1 +1,2 @@
 # Calendar-App
+ This is a README file for the calendar app. The user is able to input an appointment or to-do item for each hour of the typical workday. If the user chooses to save any calendar item, it is saved in local storage and persists upon refresh of the page. 
